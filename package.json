@@ -85,7 +85,7 @@
     "prop-types": "^15.5.8",
     "react-intl": "^2.4.0",
     "react-router-dom": "^5.0.0",
-    "terra-action-header": "^2.2.0",
+    "terra-action-header": "^2.46.0",
     "terra-aggregate-translations": "^1.0.0",
     "terra-application-layout": "^5.1.0",
     "terra-base": "^5.0.0",
