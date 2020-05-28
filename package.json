@@ -88,7 +88,7 @@
     "terra-action-header": "^2.2.0",
     "terra-aggregate-translations": "^1.0.0",
     "terra-application-layout": "^5.1.0",
-    "terra-base": "^5.0.0",
+    "terra-base": "^5.33.0",
     "terra-content-container": "^3.0.0",
     "terra-doc-template": "^2.2.0",
     "terra-icon": "^3.0.0",
