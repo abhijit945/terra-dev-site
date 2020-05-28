@@ -95,7 +95,7 @@
     "terra-image": "^3.0.0",
     "terra-markdown": "^2.0.0",
     "terra-navigation-side-menu": "^2.0.0",
-    "terra-search-field": "^3.2.0",
+    "terra-search-field": "^3.47.0",
     "terra-theme-provider": "^3.0.0",
     "to-ast": "^1.0.0",
     "webpack-merge": "^4.1.2"
